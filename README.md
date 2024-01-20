@@ -85,3 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to customize this template based on your app's specific details and structure.
   
 
+https://github.com/DevarshDhmeilya/Time-Planner/assets/114206661/c7aa6584-f6d7-47bb-9719-de8571e72310
+
+
+
