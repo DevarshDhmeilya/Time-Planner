@@ -82,10 +82,13 @@ Provide guidelines for contributing to your project. Include information on how 
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to customize this template based on your app's specific details and structure.
   
 
-https://github.com/DevarshDhmeilya/Time-Planner/assets/114206661/c7aa6584-f6d7-47bb-9719-de8571e72310
+
+
+https://github.com/DevarshDhmeilya/Time-Planner/assets/114206661/10ecd820-430b-403b-a12a-5b4bbc97d268
+
+
 
 
 
