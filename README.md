@@ -5,38 +5,83 @@
  <b>Time Planner - You can now use your time efficiently with quick time management and planning with Time Planner. With Firebase DB, you can check the work you have completed, and with the change of theme, you can work in an interface according to your taste.</b>
  
 
-## Badges
-
-Use it as you want
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
  
 ## Making
 - Ease of Use.
 - Flutter
 - Firebase DB, Auth
-- Kanban Board
+Certainly! Here is an example README file template for a Flutter application:
+
+```markdown
+# Your App Name
+
+Brief description of your app.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Provide a short introduction to your app. What is it about? What problems does it solve?
+
+## Features
+
+List the key features of your app.
+
+- Feature 1
+- Feature 2
+- ...
+
+## Getting Started
+
+### Prerequisites
+
+Specify any prerequisites or system requirements to run your app.
+
+### Installation
+
+Provide step-by-step instructions on how to install and run your app.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-app.git
+
+# Change directory
+cd your-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## Usage
+
+Explain how to use your app. Provide code snippets or examples if necessary.
+
+## Screenshots
+
+Include screenshots or GIFs showcasing your app.
+
+## Contributing
+
+Provide guidelines for contributing to your project. Include information on how to submit issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+```
+
+Feel free to customize this template based on your app's specific details and structure.
   
-## Screenshots 
- <p align="center">
- <img src="./ss/option.png"> 
- </p>
 
-
-
-## For Support
-For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
- 
-## Contact Me
-<p align="center">
-<a href="https://codepen.io/oguzhan1881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="50" width="50" /></a>
-<a href="https://dev.to/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oguzhan18" height="50" width="50" /></a>
-<a href="https://twitter.com/oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhancart" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/o%c4%9fuzhan-%c3%a7art-b73405199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o%c4%9fuzhan-%c3%a7art-b73405199/" height="50" width="50" /></a>
-<a href="https://codesandbox.com/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oguzhan18" height="50" width="50" /></a>
-<a href="https://instagram.com/oguzhan_cart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhan_cart" height="50" width="50" /></a>
-<a href="https://dribbble.com/cart188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cart188" height="50" width="50" /></a>
-<a href="https://hashnode.com/@oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@oguzhancart" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/oguzhan18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oguzhan18/" height="50" width="50" /></a>
-</p>
